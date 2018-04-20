@@ -1,16 +1,18 @@
-# Partenariat Simplon
+﻿# Partenariat Simplon
 ## Une Simple Extention WordPress
 
 ### Description :
-
+Ce plugin sert à ajouter le texte  ci dessous, en saisissant simplement [Simplon]
+"La publication de cet article est possible grâce à mon super partenaire simplon.co- une entreprise de 
+l’économie sociale et solidaire et un réseau de « fabriques » (écoles) qui propose desformations pour devenir développeur web." 
 
 ### Installation :
+Sur tableau de bord, aller sur Extension, ajouter l'extension "Partenariat Simplon WP"
 
-...
 
 ### Utilisation :
+Il suffit de saisir [Simplon] à l'endroit où vous voulez ajouter le texte, sur les articles, en mode édition.
 
-...
 
 ### Ressources :
 #### Déclaration du plugin :
