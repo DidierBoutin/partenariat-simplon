@@ -3,7 +3,6 @@
 
 ### Description :
 
-...
 
 ### Installation :
 
