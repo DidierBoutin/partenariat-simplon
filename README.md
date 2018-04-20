@@ -7,7 +7,7 @@ Ce plugin sert à ajouter le texte  ci dessous, en saisissant simplement [Simplo
 l’économie sociale et solidaire et un réseau de « fabriques » (écoles) qui propose desformations pour devenir développeur web." 
 
 ### Installation :
-Sur tableau de bord, aller sur Extension, ajouter l'extension "Partenariat Simplon WP"
+Sur tableau de bord, aller sur Extension, ajouter puis televerser, puis fichier. Choisir le fichier .zip qui contient le plugin.
 
 
 ### Utilisation :
